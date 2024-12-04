@@ -8,7 +8,6 @@ screen.title("Flipping Tiles")
 
 #choose background color
 screen.bgpic("photo-1530533718754-001d2668365a.gif")
-screen.bgpic()
  
 # define the function
 # for creating a square section
